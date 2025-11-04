@@ -15,4 +15,4 @@ Python + aiogram 3.x
 Как запустить
 ```bash
 pip install -r requirements.txt
-python bot.py
+
